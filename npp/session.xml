@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1056" startPos="194" endPos="194" selMode="0" lang="C++" encoding="-1" filename="C:\raylib\raylib\src\raylib.h" backupFilePath="" originalFileLastModifTimestamp="-1290644480" originalFileLastModifTimestampHigh="30679254" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="42" mapNbLine="42" mapHigherPos="-1" mapWidth="264" mapHeight="126" mapKByteInDoc="73" mapWrapIndentMode="1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="744" startPos="246" endPos="246" selMode="0" lang="C" encoding="-1" filename="C:\raylib\raylib\examples\core\core_basic_window.c" backupFilePath="" originalFileLastModifTimestamp="-953714944" originalFileLastModifTimestampHigh="30679313" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="42" mapNbLine="42" mapHigherPos="-1" mapWidth="264" mapHeight="126" mapKByteInDoc="2" mapWrapIndentMode="1" mapIsWrap="no" />
+            <File firstVisibleLine="30" xOffset="0" scrollWidth="1216" startPos="2220" endPos="2220" selMode="0" lang="C" encoding="-1" filename="D:\CEV\Programaci&#x00F3;n\daialock.c" backupFilePath="" originalFileLastModifTimestamp="1074470912" originalFileLastModifTimestampHigh="30698828" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="42" mapNbLine="42" mapHigherPos="-1" mapWidth="264" mapHeight="126" mapKByteInDoc="3" mapWrapIndentMode="1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1112" startPos="430" endPos="430" selMode="0" lang="C" encoding="-1" filename="D:\CEV\Programaci&#x00F3;n\random.c" backupFilePath="" originalFileLastModifTimestamp="444536320" originalFileLastModifTimestampHigh="30698830" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="42" mapNbLine="42" mapHigherPos="-1" mapWidth="268" mapHeight="126" mapKByteInDoc="0" mapWrapIndentMode="1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
